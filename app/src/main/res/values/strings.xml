@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FInal1</string>
+    <string name="text_your_number_below">Text Your Number Below</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="reset">reset</string>
+    <string name="todo">TODO</string>
+</resources>
